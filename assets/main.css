@@ -23,6 +23,8 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	background-color: #f8f7f9;
+s
 }
 
 ol, ul {
@@ -31,4 +33,26 @@ ol, ul {
 
 #profile-pic {
 	width: 12%;
+	height: 100%;
+}
+
+#footer{
+	margin-bottom: 1rem;
+}
+
+h5 {
+	font-weight: bold;
+}
+
+img {
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card{
+	
+	width: auto;
+	height: 350px;
+	
 }
